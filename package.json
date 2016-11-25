@@ -1,0 +1,17 @@
+{
+  "name": "workshop-js",
+  "version": "1.0.0",
+  "description": "fundamentos de javascript trabajo en clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Corhuila",
+  "license": "ISC",
+  "dependencies": {
+    "wingcss": "^0.1.9"
+  }
+}
